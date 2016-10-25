@@ -38,3 +38,6 @@ In the script, You can configure some parameter.
     EXCLUDE_COLS=[]
     # The collections count limit. Use one process if the collection's count is lower than this parameter and use process pool otherwise. 
     COUNT_LIMIT=1000
+
+## Run it
+  python PyMongoDump.py
